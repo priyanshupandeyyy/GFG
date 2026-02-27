@@ -9,4 +9,4 @@
 <pre><span style="font-size: 18px;"><strong>Input:</strong> s ="abc"</span><span style="font-size: 18px;">
 <strong>Output:</strong> "-1"
 <strong>Explanation: </strong>There is no repeated character.</span></pre>
-<p><strong style="font-size: 18px;">Constraints:</strong><br style="font-size: 18px;"><span style="font-size: 18px;">1 ≤ s.size() ≤ 10</span><sup>5</sup></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Amazon</code>&nbsp;<code>Adobe</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Hash</code>&nbsp;<code>Strings</code>&nbsp;<code>Data Structures</code>&nbsp;
+<p><strong style="font-size: 18px;">Constraints :</strong><br style="font-size: 18px;"><span style="font-size: 18px;">1 ≤ s.size() ≤ 10</span><sup>5</sup></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Amazon</code>&nbsp;<code>Adobe</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Hash</code>&nbsp;<code>Strings</code>&nbsp;<code>Data Structures</code>&nbsp;
